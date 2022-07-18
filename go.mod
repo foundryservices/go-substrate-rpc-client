@@ -1,9 +1,10 @@
-module github.com/centrifuge/go-substrate-rpc-client/v4
+module github.com/foundryservices/go-substrate-rpc-client/v4
 
 go 1.18
 
 require (
 	github.com/btcsuite/btcutil v1.0.3-0.20201208143702-a53e38424cce
+	github.com/centrifuge/go-substrate-rpc-client/v4 v4.0.3
 	github.com/davecgh/go-spew v1.1.1
 	github.com/deckarep/golang-set v1.8.0
 	github.com/ethereum/go-ethereum v1.10.17

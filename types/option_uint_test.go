@@ -24,7 +24,7 @@ import (
 
 	fuzz "github.com/google/gofuzz"
 
-	. "github.com/centrifuge/go-substrate-rpc-client/v4/types"
+	. "github.com/foundryservices/go-substrate-rpc-client/v4/types"
 )
 
 var (
